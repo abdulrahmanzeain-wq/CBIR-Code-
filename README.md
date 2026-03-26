@@ -58,3 +58,4 @@ If you use this work, please cite:
 
 Zeain, A.Y., Ibrahim, A.A.  
 "A Causality-Enhanced Multiresolution Residual Learning Framework for Image Retrieval with Fast Osprey Optimization"
+[![DOI](https://zenodo.org/badge/1188436184.svg)](https://doi.org/10.5281/zenodo.19235286)
